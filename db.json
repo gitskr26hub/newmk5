@@ -2,9 +2,10 @@
     "users": [
         {
           "id": 1,
-          "name": "Gertrudis Tatterton",
-          "age": 18,
-          "email": "gtatterton0@ehow.com"
+          "username": "Ram",
+          "avatar": "https://image.shutterstock.com/image-photo/young-handsome-man-beard-wearing-260nw-1768126784.jpg",
+          "email": "ram@gmail.com",
+          "password":123456
         }
     ]
 }
