@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "username": "Ram",
-      "avatar": "https://image.shutterstock.com/image-photo/young-handsome-man-beard-wearing-260nw-1768126784.jpg",
+      "username": "ram",
       "email": "ram@gmail.com",
-      "password": "123456"
+      "password": "123456",
+	"tasks":[]
     }
   ],
   "blogs": [
